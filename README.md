@@ -65,7 +65,8 @@ publication-ready figure.
 
 *(Run the app locally — see [Quick Start](#quick-start) — to see the five
 tabs: How This Works, Your Data, QTL Map, Summary Table, and Methodology &
-Limitations. Screenshots will be added here in a future update.)*
+Limitations. Screenshots will be added here in a future update.)*<img width="686" height="409" alt="image" src="https://github.com/user-attachments/assets/0ac9944a-6139-4665-8092-a615704f0725" />
+
 
 ---
 
